@@ -1,3 +1,1 @@
-# picoracconti
-
 test welcome
