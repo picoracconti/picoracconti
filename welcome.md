@@ -1,4 +1,10 @@
-# This is a test title
+---
+layout: narrative
+title: "Narrative of the Life of Frederick Douglass"
+author: Giorgio Cefaro
+---
+
+---
 ## A sample page
 
 In the month of August, 1841, I attended an anti-slavery convention in Nantucket, at which it was my happiness to become acquainted with Frederick Douglass, the writer of the following Narrative. He was a stranger to nearly every member of that body; but, having recently made his escape from the southern prison-house of bondage, and feeling his curiosity excited to ascertain the principles and measures of the abolitionists,—of whom he had heard a somewhat vague description while he was a slave,—he was induced to give his attendance, on the occasion alluded to, though at that time a resident in New Bedford.
